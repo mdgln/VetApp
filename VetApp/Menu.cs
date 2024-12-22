@@ -24,6 +24,7 @@ namespace VetApp
 
             do
             {
+                Console.WriteLine("Feature 1 Added");
 
                 Console.WriteLine("Welcome to VetApp\n");
 
